@@ -13,5 +13,6 @@ public class Array_basic{
         for(int n: arr){
             System.out.print(n+" ");
         }
+        sc.close();
     }
 }

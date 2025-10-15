@@ -1,3 +1,4 @@
+package arrays;
 public class Min_max {
     public static void main(String[] args) {
         int []arr = {18,2,3,5,33,63,79,10};

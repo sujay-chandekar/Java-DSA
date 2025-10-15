@@ -10,6 +10,7 @@ public class Prime_InRange {
 
         if(n>m){
             System.out.println(("Invalid Input"));
+            sc.close();
             return;
         }
         int arr[] = new int[m-n];
@@ -33,5 +34,6 @@ public class Prime_InRange {
             else
             System.out.print(arr[i]+",");
         }
+        sc.close();
     }
 }
