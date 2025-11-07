@@ -16,6 +16,5 @@ class StringBuilder1{
         String s = sb.substring(5,sb.length());
         System.out.println("Sub String : "+s);
         
-
     }
 }
